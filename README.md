@@ -18,5 +18,5 @@ Web design and development have been my creative outlet and an essential part of
 
 I'm all about collaboration and learning from the amazing GitHub community. Whether you have questions, suggestions, or just want to chat about tech, fitness, gaming, or anything else, feel free to reach out. Let's connect, create, and learn together!
 
-📫 How to reach me https://wwww.ronniegrover.com
+📫 How to reach me https://www.ronniegrover.com
 
