@@ -1,22 +1,49 @@
-**About Me:**
+# Ronnie Grover's Github Profile & Website Main
 
-Hello, I'm Ronnie, and I'm excited to welcome you to my GitHub profile! With a dynamic background in IT system administration, web design and development, I've spent the last decade immersed in the world of technology and design. My journey has taken me from the heartland of Oklahoma to the Hudson Valley of New York, and now I proudly call Houston, Texas, my home.
+## Welcome!
 
+I'm a systems administrator with substantial experience in managing SaaS applications, IT infrastructure, and automation. I also have a strong passion for web development and am actively building my skills in both frontend and backend technologies.
 
+## About Me
 
-**What You'll Find Here:**
+*   Proud stay-at-home dad to a three-year-old daughter and one-year-old son.
+*   Happily married to my beautiful wife for 10 years (this September!)
+*   Fitness enthusiast with a dedicated home gym setup.
 
-💻 IT System Administration - 
-My passion for IT system administration has been at the core of my professional journey. You'll find repositories containing scripts, guides, and tools related to cloud systems, network optimization, and security. I believe in the power of efficient, secure, and scalable IT solutions, and I'm excited to share my knowledge with you.
+## My IT Operations Expertise
 
-🖲️ Web Design and Development - 
-Web design and development have been my creative outlet and an essential part of my career. From HTML, CSS, and JavaScript to modern web frameworks, I've dedicated years to crafting web experiences that are both aesthetically pleasing and highly functional. You'll discover code snippets, projects, and resources here that showcase my love for clean, user-friendly design.
+*   Highly experienced with SaaS application configuration and management (Okta, Google Workspace, JAMF)
+*   Solid understanding of IT security concepts and their application in SaaS environments
+*   Adept at streamlining IT workflows and processes through automation
+*   Skilled communicator, able to bridge technical and non-technical audiences
+*   Proficient with macOS, Windows, and Linux operating systems
 
-🏋️‍♂️ My Interests - Beyond the world of tech, I have a passion for fitness and an at-home gym setup. I believe that maintaining a healthy body is crucial for a sharp mind. You might find repositories related to fitness apps, workout routines, or personal insights on how I balance my tech-heavy life with staying active and fit.
+## My Development Interests
 
-**Connect with Me:**
+**Frontend:**
 
-I'm all about collaboration and learning from the amazing GitHub community. Whether you have questions, suggestions, or just want to chat about tech, fitness, gaming, or anything else, feel free to reach out. Let's connect, create, and learn together!
+*   HTML, CSS, JavaScript, React, Next.js
 
-📫 How to reach me https://www.ronniegrover.com
+**Backend:**
 
+*   Exploring Python, Node.js and the MERN stack
+
+**Enthusiast:**
+
+*   I enjoy learning about web development, design and self-hosting web services and applications
+
+## Projects
+
+*   **Grover Game Portfolio** (JavaScript, HTML, CSS) - [Link to project repo or live site]
+*   **SX MFA** (MFA Web Application for Mobile/Desktop) - [Coming soon..]
+*   **todo** (todo.ronniegrover.com) - [Coming soon..]
+*   **calendar** (calendar.ronniegrover.com) - [Coming soon..]
+
+## Connect with Me
+
+*   **LinkedIn:** https://www.linkedin.com/in/ronniegrover
+*   **Website:**  https://www.ronniegrover.com
+*    **Resume:** https://github.com/rgrover00/resume/blob/master/RonnieGrover-Resume.pdf
+*   **Email:**  ronnie@solidxit.com
+
+I'm actively seeking opportunities to collaborate on development projects and leverage my systems administration experience in a web development context. 
