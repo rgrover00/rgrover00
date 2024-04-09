@@ -8,7 +8,7 @@ I'm a systems administrator with substantial experience in managing SaaS applica
 
 *   Proud stay-at-home dad to a three-year-old daughter and one-year-old son.
 *   Happily married to my beautiful wife for 10 years (this September!)
-*   Fitness enthusiast with a dedicated home gym setup.
+*   Fitness is my therapy with a dedicated home gym setup.
 
 ## My IT Operations Expertise
 
@@ -34,7 +34,7 @@ I'm a systems administrator with substantial experience in managing SaaS applica
 
 ## Projects
 
-*   **Grover Game Portfolio** (JavaScript, HTML, CSS) - [Link to project repo or live site]
+*   **Grover Game Portfolio** (JavaScript, HTML, CSS) - https://github.com/rgrover00/rg-portfolio-2d
 *   **SX MFA** (MFA Web Application for Mobile/Desktop) - [Coming soon..]
 *   **todo** (todo.ronniegrover.com) - [Coming soon..]
 *   **calendar** (calendar.ronniegrover.com) - [Coming soon..]
