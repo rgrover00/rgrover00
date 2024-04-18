@@ -1,4 +1,4 @@
-# Ronnie Grover's Github Profile & Website Main
+# Ronnie Grover's Github Profile
 
 ## Welcome!
 
